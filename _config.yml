@@ -2,7 +2,7 @@ title: 我的个人学习博客
 description: 记录学习、代码、生活随笔
 # songjiayi11
 url: https://songjiayi11.github.io
-theme: minima
+remote_theme: pages-themes/minima@v2
 # 随笔、新人
 plugins:
   - jekyll-feed
